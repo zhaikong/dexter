@@ -1,7 +1,4 @@
 # Environment variables
-.env
-.env.local
-.env.*
 
 # Python
 __pycache__/
@@ -38,7 +35,6 @@ yarn-debug.log*
 yarn-error.log*
 
 # IDEs
-.vscode/
 .idea/
 *.swp
 *.swo
@@ -58,3 +54,4 @@ yarn-error.log*
 
 logs/
 coverage.json
+config.bat
